@@ -5,7 +5,7 @@
   "author": "__  <__@gmail.com> (https://github.com/__)",
   "scripts": {
     "serve": "vite preview --host",
-    "build": "npm version patch && vite build",
+    "build": "vite build",
     "dev": "vite --host"
   },
   "main": "index.js",

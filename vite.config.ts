@@ -10,7 +10,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: 'dist'
+    outDir: 'nome_folder_projeto'
   },
   plugins: [
     vue(),
