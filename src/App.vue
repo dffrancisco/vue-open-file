@@ -4,4 +4,6 @@
   <router-view></router-view>
 </template>
 
-<style lang="scss"></style>
+<style lang="scss">
+@import "./assets/index.css";
+</style>
